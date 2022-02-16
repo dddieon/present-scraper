@@ -1,0 +1,26 @@
+{
+    "name": "present-scrap",
+    "version": "1.0.0",
+    "description": "Recommended Presents Scrapper",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "ddieon",
+    "license": "ISC",
+    "dependencies": {
+        "mysql2": "^2.3.3",
+        "node-cmd": "^5.0.0",
+        "node-cron": "^3.0.0",
+        "prettier": "^2.5.1",
+        "request": "^2.88.2",
+        "selenium-webdriver": "^4.1.1",
+        "sequelize": "^6.16.1",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "chromedriver": "^98.0.1",
+        "eslint": "^8.9.0",
+        "eslint-config-prettier": "^8.3.0"
+    }
+}
