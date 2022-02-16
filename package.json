@@ -16,6 +16,7 @@
         "request": "^2.88.2",
         "selenium-webdriver": "^4.1.1",
         "sequelize": "^6.16.1",
+        "sequelize-cli": "^6.4.1",
         "uuid": "^8.3.2"
     },
     "devDependencies": {
